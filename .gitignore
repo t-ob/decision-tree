@@ -1,3 +1,4 @@
 *~
 .idea
-cmake-build-debug
+cmake-build-*
+decision_tree_tests/lib

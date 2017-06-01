@@ -185,6 +185,6 @@ int main() {
     }
 
     std::cout << gain_wind << std::endl;
-    
+
     return 0;
 }
