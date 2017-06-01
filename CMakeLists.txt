@@ -5,3 +5,6 @@ set(CMAKE_CXX_STANDARD 11)
 
 set(SOURCE_FILES main.cpp)
 add_executable(decision_tree ${SOURCE_FILES})
+
+add_subdirectory(decision_tree)
+add_subdirectory(decision_tree_tests)
